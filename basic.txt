@@ -1,1 +1,5 @@
 this is the bascic commands of git file 
+git init
+git status
+git add .
+git commit -m "message name"
