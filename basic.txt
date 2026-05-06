@@ -6,4 +6,4 @@ git commit -m "message name"
 i am adding this commands from dev branch
 git branch----> list of all local branches
 git checkout -b dev ---> creating dev branch and switched to dev branch
-i am testing merge conficts things from dev branch
+i am testing merge conficts things from master branch
